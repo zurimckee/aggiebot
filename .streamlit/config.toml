@@ -1,0 +1,13 @@
+[theme]
+
+# overall theme colors
+
+primaryColor = "#F3C010"
+backgroundColor = "#1C3B7A"
+secondaryBackgroundColor = "#2651A6"
+textColor = "#FFFFFF"
+linkColor = "#AA8814"
+font = "san-serif"
+base = "dark"
+
+
