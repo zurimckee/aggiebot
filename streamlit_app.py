@@ -6,19 +6,19 @@ from google.genai import types
 
 
 SUGGESTIONS = {
-    ":blue[:material/local_library:] What can AggieBot do?": (
+    ":pager: What can AggieBot do?": (
         "What kind of questions can I ask you? "
     ),
-    ":green[:material/database:] When does the financial aid office close?": (
+    ":money_with_wings: When does the financial aid office close?": (
         "Can you give me directions to the financial aid office?"
     ),
-    ":orange[:material/multiline_chart:] What are some restaurants close to campus?": (
+    ":sandwich: What are some restaurants close to campus?": (
         "What are some good late night eats close to campus?"
     ),
-    ":violet[:material/apparel:] When does registration start?": (
+    ":page_with_curl: When does registration start?": (
         "When does registration start?"
     ),
-    ":red[:material/deployed_code:] What are some fun things to do in Greensboro?": (
+    ":night_with_stars: What are some fun things to do in Greensboro?": (
         "Give me activities for people under 21 in Greensboro."
     ),
 }
