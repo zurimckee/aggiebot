@@ -2,7 +2,13 @@
 
 A&T AI ChatBot
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aggiebot.streamlit.app/)
+
+this was a really fun project i finished it in two days because i waited until the last minute to start it :D
+
+big ups to claude, this github repo [![thanks!](https://github.com/streamlit/demo-ai-assistant/blob/main/streamlit_app.py)], and streamlit docs 🙏
+
+<hr>
 
 ### How to run it on your own machine
 
