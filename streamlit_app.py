@@ -163,7 +163,7 @@ def config_api_key():
                             full_response += chunk.text
                             message_placeholder.markdown(full_response)
                             
-                            st.session_state.messages.append({"role" : "assistant", "content": full_response})
+                        st.session_state.messages.append({"role" : "assistant", "content": full_response})
 
     else:
         st.warning("Please enter your Gemini API key to use the chatbot. You can get an API key from the [Google Cloud Console](https://console.cloud.google.com/apis/credentials).")
