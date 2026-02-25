@@ -154,7 +154,8 @@ def config_api_key():
 
                     with st.spinner("AggieBot is thinking..."):
                         response = client.models.generate_content_stream(
-                            model = "gemini-3-flash-preview",
+                            model = "gemini-2.5-flash",
+                            #switch back to gemini 3 preview when rate limit resets
                             contents = user_message,
                             config = st.session_state.aggie_config
                         )
